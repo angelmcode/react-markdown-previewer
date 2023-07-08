@@ -1,0 +1,25 @@
+.container_markdown_editor {
+    /* border: 1px solid black; */
+    width: 542px;
+    height: 554px;
+    box-shadow: 5px 5px 10px;
+}
+
+.markdown_editor {
+    border: 1px solid black;
+    width: 520px;
+    height: 500px;
+    padding: 10px;
+}
+
+.container_header_editor {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    font-size: 20px;
+    font-family: Arial;
+    padding: 4px;
+    background-color: rgb(35, 5, 104);
+    color: white;
+}
