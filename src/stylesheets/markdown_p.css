@@ -31,6 +31,18 @@ img[alt="React Logo"] {
     width: 298px;
 }
 
+img[alt="html Logo"] {
+    width: 100px;
+}
+
+img[alt="css Logo"] {
+    width: 100px;
+}
+
+img[alt="javascript Logo"] {
+    width: 100px;
+}
+
 pre {
     background-color: white;
     padding: 10px;
